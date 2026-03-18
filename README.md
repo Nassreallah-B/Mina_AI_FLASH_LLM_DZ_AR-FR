@@ -12,6 +12,8 @@ Je suis conçue pour assister, répondre aux questions, traduire, résumer et di
 **Exemple d'interaction de lancement :
 "Salam Mina, wech raki lyoum ? Kiraki m3a lkhedma ?"
 
+Lien HuggingFace: https://huggingface.co/Nasro31/Mina_AI_FLASH_LLM_DZ_AR-FR
+
 ⚙️ Détails Techniques
 Créateur : Nasro
 Base Model : Qwen/Qwen2.5-7B
